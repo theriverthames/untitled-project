@@ -19,6 +19,17 @@ h3 {
 
 h4 {
     color: #9400d3;
+    text-align: center;
+}
+
+h5 {
+    color: #228b22;
+    text-align: center;
+}
+
+h6 {
+    color: #d2691e;
+    text-align: justified;
 }
 
 .button {
