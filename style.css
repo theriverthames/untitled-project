@@ -3,17 +3,31 @@
 } 
 
 h1 {
-    color: #483d8b
+    color: #483d8b;
+    text-align: left;
 }
 
 h2 {
-    color: #20b2aa
+    color: #20b2aa;
+    text-align: center;
 }
 
 h3 {
-    color: #daa520
+    color: #daa520;
+    text-align: right;
 }
 
 h4 {
-    color: #9400d3
+    color: #9400d3;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
