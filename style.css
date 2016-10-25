@@ -1,6 +1,15 @@
 * {
     font-family: "Lucida Console", Monaco, monospace
 } 
+
 h1 {
     color: #483d8b
+}
+
+h2 {
+    color: #20b2aa
+}
+
+h3 {
+    color: #daa520
 }
